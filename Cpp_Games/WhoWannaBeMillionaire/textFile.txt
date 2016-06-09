@@ -1,0 +1,306 @@
+How many legs does a human have?
+Which of these countries is largest in area?
+Who discovered the law of gravity when an apple fell on his head? 
+How many moons does Neptune have?
+What is usually the nearest planet to the sun?
+What does B.C. stand for when referring to years?
+Which of the following groups of numbers are perfect numbers?
+The word 'zigzag' is derived from what language?
+Which Greek letter is ordinarily used to represent the ratio of the circumference of a circle to its diameter?
+Emperor, king, crested, and rock hopper are all types of what?
+Which of the following is NOT a Baltic country?
+K is the chemical symbol for which element?
+QuesListV1
+The Latin phrase 'alma mater' is used to mean the school one has attended, but what is its literal meaning?
+Which is the densest planet?
+Einstein said, 'God does not play _____.' ?
+What is the only moon in the solar system with an atmosphere?
+Approximately how many languages are spoken throughout the world?
+To what kingdom do mushrooms belong?
+Who wrote 'Treasure Island'?
+What was the first mammal sent into space?
+If you mixed red and blue, what color would you get?
+Which of the following months does not have 31 days?
+Which of these planets is the largest?
+What does a pH level measure?
+QuesListV2
+If Christmas Day is on Saturday, then the following New Year's Day is on which day of the week?  
+Which of these holidays is not attached to a specific date in the US?
+Which of these is a type of ray the sun produces?
+Where was the chicken first domesticated?
+What is a baby frog called?
+Who is known as 'The King' of rock and roll?
+What type of substance is 'terracotta'?
+Who was the first American in space?
+What part of the world was once known as Cathay?
+The Statue of Liberty was presented to the United States by which country?
+For which style of painting is Salvador Dali best known?
+Which planet is sometimes farther away from the sun than Pluto?
+QuesListV3
+42
+4
+2
+1
+AnsOptionL1v1
+USA 
+Guam 
+Canada
+China
+AnsOptionL2v1
+Galileo Galilei
+Albert Einstein
+Aristotle
+Sir Isaac Newton
+AnsOptionL3v1
+fewer than 5 
+6 
+more than 10 
+8
+AnsOptionL4v1
+Venus 
+Earth 
+Mars 
+Mercury 
+AnsOptionL5v1
+Bad Congo 
+Bionary Chalupas
+Before Christ 
+Big Computers
+AnsOptionL6v1
+4, 9, 16
+8, 27, 64
+10, 100, 1000
+6, 28, 496
+AnsOptionL7v1
+Arabic
+Latin
+French
+Greek
+AnsOptionL8v1
+epsilon
+omega
+delta
+pi
+AnsOptionL9v1
+seals
+snakes
+turtles
+penguins
+AnsOptionL10v1
+Latvia
+Lithuania
+Austria
+Estonia
+AnsOptionL11v1
+hydrogen
+sodium
+nitrogen
+potassium
+AnsOptionL12v1
+second mother
+old building
+higher learning
+nourishing mother
+AnsOptionL1v2
+Venus
+Earth
+Jupiter
+Uranus
+AnsOptionL2v2
+by the rules
+poker
+dice
+backgammon
+AnsOptionL3v2
+Titania
+Triton
+Umbriel
+Titan
+AnsOptionL4v2
+12,000
+10,000
+1,000
+5,000
+AnsOptionL5v2
+Protist Kingdom
+Monera Kingdom
+Animal Kingdom
+Fungi Kingdom
+AnsOptionL6v2
+Shel Silverstein
+Harper Lee
+Robert Louis Stevenson
+J. R. R. Tolkien
+AnsOptionL7v2
+Cat
+Dog
+Monkey
+Mouse
+AnsOptionL8v2
+Green
+Hot Pink
+Black
+Purple
+AnsOptionL9v2
+March
+December
+May
+April
+AnsOptionL10v2
+Uranus
+Venus
+Neptune
+Earth
+AnsOptionL11v2
+Wave Length
+Density
+Humidity
+Acidity or alkalinity
+AnsOptionL12v2
+Sunday
+Friday
+Monday
+Saturday
+AnsOptionL1v3
+Christmas
+Independence Day
+Thanksgiving
+Valentine's Day
+AnsOptionL2v3
+Manta
+Ray Romano
+Scout
+Ultraviolet
+AnsOptionL3v3
+India
+Peru
+France
+Zaire
+AnsOptionL4v3
+Regis
+Jumper
+Tadpole
+Croaker
+AnsOptionL5v3
+Elvis Presley
+Rob Thomas
+Kermit the Frog
+Pat Sajak
+AnsOptionL6v3
+ceramic
+wood
+metal
+glass
+AnsOptionL7v3
+Neil Armstrong
+John Glenn
+Alan Shepard
+Buzz Aldrin
+AnsOptionL8v3
+China
+Iran
+India
+Indonesia
+AnsOptionL9v3
+England
+France
+Germany
+Portugal
+AnsOptionL10v3
+Impressionism
+Pointilism
+Surrealism
+Abstract
+AnsOptionL11v3
+Neptune
+Saturn
+Uranus
+Jupiter
+AnsOptionL12v3
+C
+C
+D
+C
+D
+C
+D
+C
+D
+A
+C
+D
+AnsKeyV1
+A
+B
+C
+D
+A
+D
+C
+C
+D
+D
+A
+A
+AnsKeyV2
+D
+C
+D
+A
+C
+A
+A
+C
+A
+B
+C
+A
+AnsKeyV3
+A
+A
+B
+A
+B
+A
+B
+A
+B
+B
+A
+B
+AnsKeyFFV1
+B
+A
+A
+B
+B
+B
+A
+A
+B
+B
+A
+B
+AnsKeyFFV2
+B
+A
+B
+A
+A
+A
+A
+A
+A
+B
+A
+A
+AnsKeyFFV3
+TULU
+NILU
+PlayerList
+500
+90
+PrizeMoney
+0
+0
+Attempt
